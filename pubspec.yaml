@@ -39,7 +39,6 @@ dependencies:
   intl: ^0.18.1
   shared_preferences: ^2.1.1
   flutter_riverpod: ^2.3.6
-  get_it: ^7.5.0
   dio: ^5.1.2
 
 dev_dependencies:

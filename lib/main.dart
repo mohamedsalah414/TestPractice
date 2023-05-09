@@ -3,8 +3,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:testpractice/core/utils/app_colors.dart';
 import 'package:testpractice/presentation/logIn/screens/logIn_screen.dart';
 
-import 'presentation/home/screens/home_navigator_screen.dart';
-import 'presentation/home/screens/home_screen.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
